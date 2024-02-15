@@ -1,0 +1,19 @@
+.buttonsContainer{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    
+ }
+
+.button{
+    font-weight: 600;
+    height: 45px;
+    width: 45px;
+    margin: 5px 7.5px;
+    border: 2px solid #6674CC;
+    border-radius: 2.5px;
+ }
+
+ .button:hover{
+    background-color: #a6ade4;
+ }
